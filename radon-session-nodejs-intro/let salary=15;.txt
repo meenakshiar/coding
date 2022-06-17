@@ -1,0 +1,17 @@
+let salary=15;
+let property=75;
+let adhaar=true;
+
+if (salary>10){
+    if(property>50){
+        if( adhaar===true){
+            console.log("loan approved")
+        }else{
+            console.log("you don't have adhaar card ")
+        }
+    }else{
+        console.log("Property is insufficient")
+    }
+}else{
+    console.log("salary")
+}

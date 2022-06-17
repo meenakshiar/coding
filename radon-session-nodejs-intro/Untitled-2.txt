@@ -1,0 +1,23 @@
+# const lightone = "red";
+# const lighttwo = "green";
+# const lightthree = "yellow";
+
+# let light ="green&&yellow";
+# if(light==="red"){
+#     console.log("the car stops");
+# }else if(light==="yellow"){
+#     console.log("the engine starts");
+# }else if(light==="green"){
+#     console.log("the aceerlaor on");
+# }else if(light==="off"){
+#     console.log("give warning to driver")
+# }else if(light==="red&&yellow"){
+#     console.log("give warning to driver")
+# }else if(light==="red&&green"){
+#     console.log("give warnig to driver")
+# }else if(light==="green&&yellow"){
+#     console.log("give warning to driver")
+# }else if(light==="red&&yellow&&green"){
+#     console.log("give warning to driver")
+# }
+const light = 
